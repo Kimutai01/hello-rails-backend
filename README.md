@@ -1,24 +1,42 @@
-# README
+![](https://img.shields.io/badge/Kiprotich-kimutai-yellow?labelColor=blue)&nbsp;
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails api
 
-Things you may want to cover:
+> This is a rails api
 
-* Ruby version
+## Built With
 
-* System dependencies
+---
 
-* Configuration
+![](https://img.shields.io/badge/Rails-black)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Ruby-green)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Devise-Yellow)
 
-* Database creation
+[Live to frontend](https://github.com/Kimutai01/hello-react-front-end)
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+To get a local copy up and running follow these simple example steps.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting a local copy
 
-* Deployment instructions
+---
 
-* ...
+```
+git clone https://github.com/Kimutai01/hello-rails-backend
+cd hello-rails-backend
+```
+
+## Authors
+
+👤👤 **Kiprotich Kimutai**
+
+- GitHub: [@Kimutai01](https://github.com/Kimutai01)
+- Twitter: [@Kimutai_01](https://twitter.com/Kimutai_01?s=09)
+- LinkedIn: [@kiprotichkimutai](https://www.linkedin.com/m/in/kimutai-kiprotich-1b5045216)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
